@@ -17,7 +17,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Welcome from Kinsta Static Site Hosting! Nyehehe
+          Welcome from Kinsta Static Site Hosting! Test
         </p>
         <p>List Of Env Vars (including a few default):</p>
         <div>
